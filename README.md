@@ -1,1 +1,1 @@
-<a href="http://khatrideepak.github.io/Information-Visualization-Experiment/">Click here to read the experiment</a>
+<a target="_blank" href="http://khatrideepak.github.io/Information-Visualization-Experiment/">Click here to read the experiment</a>
